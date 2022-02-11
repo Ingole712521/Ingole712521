@@ -3,7 +3,8 @@
 <img src="https://komarev.com/ghpvc/?username=Ingole712521&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
 <h3> Here's some fun facts about me: </h3>
-
+<a align= "center" href="https://github.com/dataonatangent">
+   <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
 - 🔭 I’m currently pursuing my 3rd year B.Tech Degree from Government College OF Engineering Karad
 - 🌱 I’m passionate toward learning new Technology
 - 💬 Ask me about Programming or Docker , Kubernetes , Ansible , Terraform , AWS , Jenkins
@@ -70,7 +71,6 @@
 	
 <br/>
 
-<a align= "center" href="https://github.com/dataonatangent">
-   <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
+
 
 ------
