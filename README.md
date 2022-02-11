@@ -1,8 +1,4 @@
 
-
-
-### Hi there 👋
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Nehal+Ingole!;I'm+Engineer)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Ingole712521&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
@@ -30,7 +26,7 @@
 <br>
 </p>
 - 😄 Pronouns: ... We/Us
-- ⚡ Fun fact: ... I am . 😎�
+- ⚡ Fun fact: ... I am Engineer. 😎�
 
 
 
@@ -42,7 +38,8 @@
   &emsp;
      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+     <a href="#"><img alt="Ansible" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"></a>	
+    
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
      &emsp;
@@ -50,14 +47,30 @@
         &emsp;
     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
     &emsp;
-    <a href="#"><img alt="Terraform" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
+    <a href="#"><img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"></a>
     &emsp;
-     <a href="#"><img alt="TFigma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
-    &emsp; 
+    <a href="#"><img alt="Jenkin" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"></a> 
+    &emsp;
+    
+	
     &emsp;
     
 </p>
+ ## Operating System 
+  <p>
+    &emsp;
+	 <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+    &emsp;
+	 <a href="#"><img alt="RedHat" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"></a>
+    &emsp;
+   	 <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a> 
+    &emsp;
+   	 <a href="#"><img alt="Window" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a> 
+    &emsp;
+   	 <a href="#"><img alt="Window" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a> 
 
+	
+    &emsp;
 
 <br/>
 
