@@ -54,7 +54,9 @@
         &emsp;
     
 </p>
- ## Operating System 
+
+
+ ## 👉 Operating System 
   <p>
     &emsp;
 	 <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
@@ -67,9 +69,6 @@
     &emsp;
    	 <a href="#"><img alt="Window" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a> 
 	
-    &emsp;
-    &emsp;
-
 <br/>
 
 ------
