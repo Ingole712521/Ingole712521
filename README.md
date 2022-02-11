@@ -1,5 +1,3 @@
-![alt text](https://www.google.com/imgres?imgurl=https%3A%2F%2Ffiverr-res.cloudinary.com%2Fimages%2Fq_auto%2Cf_auto%2Fgigs%2F163239289%2Foriginal%2F8b454aa102d76cac995c0236075ddd0dc6330dd6%2Fdo-a-docker-jenkins-kubernetes-ansible-terraform-related-work.jpeg&imgrefurl=https%3A%2F%2Fwww.fiverr.com%2Fkuppalabk%2Fdo-a-docker-jenkins-kubernetes-ansible-terraform-related-work&tbnid=FZ-vtsOv2bKhNM&vet=12ahUKEwiFkMHsiPj1AhXOCbcAHSgyB2wQMygDegUIARC8AQ..i&docid=k8qzCj20-BrkbM&w=750&h=422&q=aws%20kubernetes%20ansible%20jenkins%20docker%20%20terraform%20&hl=en&ved=2ahUKEwiFkMHsiPj1AhXOCbcAHSgyB2wQMygDegUIARC8AQ)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Nehal+Ingole!;I'm+Engineer)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Ingole712521&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
