@@ -12,7 +12,7 @@
 	-[Automate Kubernetes Cluster using Ansible](https://medium.com/@nehalingole2001/automate-kubernetes-cluster-using-ansible-fa05d78d9f54) 
 	- [Terraform-AWS](https://medium.com/@nehalingole2001/terraform-aws-969d63923d78)
 <a align= "center" href="https://github.com/dataonatangent">
-   <img align="right" height="150px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
+   <img align="right" height="250px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
 <p>Connect with me on
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/nehal-ingole/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
@@ -54,7 +54,8 @@
         &emsp;
     
 </p>
-
+<p align='center'>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
  ## 👉 Operating System 
   <p>
