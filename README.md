@@ -51,9 +51,7 @@
     &emsp;
     <a href="#"><img alt="Jenkin" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"></a> 
     &emsp;
-    
-	
-    &emsp;
+        &emsp;
     
 </p>
  ## Operating System 
@@ -68,8 +66,8 @@
    	 <a href="#"><img alt="Window" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a> 
     &emsp;
    	 <a href="#"><img alt="Window" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a> 
-
 	
+    &emsp;
     &emsp;
 
 <br/>
