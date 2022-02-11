@@ -69,8 +69,8 @@
    	 <a href="#"><img alt="Window" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a> 
 	
 <br/>
-<p>
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/dataonatangent"/>
-</p>
+
+<a align= "center" href="https://github.com/dataonatangent">
+   <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
 
 ------
