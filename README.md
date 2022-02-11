@@ -33,6 +33,11 @@
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Ingole712521&theme=gruvbox&hide_border=true&area=true)
 
 
+
+<p align='center'>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+
+
  ### 👉 Software & Tools
  <p>
   &emsp;
@@ -54,8 +59,7 @@
         &emsp;
     
 </p>
-<p align='center'>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+
 
  ## 👉 Operating System 
   <p>
