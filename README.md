@@ -31,7 +31,7 @@
 
 
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Ingole712521&theme=gruvbox&hide_border=true&area=true)
+[![Nehal Ingole github activity graph](https://activity-graph.herokuapp.com/graph?username=Ingole712521&theme=react-dark)](https://github.com/Ingole712521/github-readme-activity-graph)
 
 
 
