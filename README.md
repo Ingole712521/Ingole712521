@@ -85,5 +85,19 @@
 </a>
 </p>
 
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=Ingole7125218&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Ingole712521)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Ingole712521&theme=material-palenight)](https://github.com/Ingole712521)
+</div>
+
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Ingole712521/Ingole712521/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
 
 ------
