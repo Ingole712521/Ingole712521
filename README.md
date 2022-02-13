@@ -83,10 +83,9 @@
   <a href="https://github.com/Chaitanya-Pratap-Singh/github-readme-stats"><img alt="Nehal Ingole's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ingole712521&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ingole712521&theme=algolia" alt="Nehal Ingole"  /></p>
 
 
 ------
