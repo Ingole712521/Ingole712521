@@ -4,7 +4,7 @@
 
 <h3> Here's some fun facts about me: </h3>
 
-- 🔭 I’m currently pursuing my 3rd year B.Tech Degree from Government College OF Engineering Karad
+- 🔭 I’m currently pursuing my 4th year B.Tech Degree from Government College OF Engineering Karad
 - 🌱 I’m passionate toward learning new Technology
 - 💬 Ask me about Programming or Docker , Kubernetes , Ansible , Terraform , AWS , Jenkins
 - 📫 I am also a technical writer at Medium 
