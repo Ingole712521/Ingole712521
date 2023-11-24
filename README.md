@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://your-profile-image-url" alt="Nehal Ingole" width="200" />
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679583995626/MFNsTp7yy.jpg?w=500&h=500&fit=crop&crop=faces&auto=compress,format&format=webp" alt="Nehal Ingole" width="200" />
 </div>
 
 # 👋 Hello, I'm Nehal Ingole - IT Student
