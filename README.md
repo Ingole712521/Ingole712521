@@ -43,9 +43,9 @@ I am a passionate IT student pursuing my B.Tech Information Technology degree  a
 
 ## 📈 Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gaurav-2001&show_icons=true&theme=highcontrast" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-2001&theme=highcontrast" />
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ingole712521&layout=compact&theme=radical" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ingole712521&show_icons=true&theme=highcontrast" />
+ 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ingole712521&theme=highcontrast" />
+ 	<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ingole712521&layout=compact&theme=radical" />
 </a>
 </p>
 ## 📝 Blog & Portfolio
