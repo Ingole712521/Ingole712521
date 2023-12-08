@@ -41,6 +41,13 @@ I am a passionate IT student pursuing my B.Tech Information Technology degree  a
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Badge" />
 </div>
 
+## 📈 Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gaurav-2001&show_icons=true&theme=highcontrast" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-2001&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ingole712521&layout=compact&theme=radical" />
+</a>
+</p>
 ## 📝 Blog & Portfolio
 
 Visit my [Blog](https://yourblogurl.com) for articles and projects related to [your area of interest].
