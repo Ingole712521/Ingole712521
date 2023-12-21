@@ -12,40 +12,6 @@
   </a>
 </div>
 
-## 🚀 About Me
-
-🌐 Frontend Developer | UI/UX Designer | Cloud & DevOps Enthusiast 🚀
-
-Welcome to my LinkedIn profile! I'm a passionate professional with a knack for crafting seamless user experiences, designing visually stunning interfaces, and diving into the realms of cloud computing and DevOps. Let's connect and explore the possibilities of collaboration!
-
-🛠️ **Skills:**
-- Frontend Development: HTML, CSS, JavaScript (React, Angular, Vue.js)
-- UI/UX Design: Wireframing, Prototyping, Adobe Creative Suite, Figma
-- Cloud Technologies: AWS, Azure, Google Cloud Platform
-- DevOps Tools: Docker, Kubernetes, Jenkins, Git
-
-💼 **Experience:**
-With a solid background in frontend development and UI/UX design, I've had the privilege of working on diverse projects that showcase my commitment to delivering high-quality products. My experience extends to collaborating with cross-functional teams to ensure a seamless integration of design and development.
-
-🚀 **Passion for Cloud:**
-As a fervent cloud enthusiast, I am continuously exploring the latest advancements in cloud technologies. Whether it's architecting scalable solutions on AWS or optimizing workflows on Azure, I'm dedicated to staying at the forefront of the cloud landscape.
-
-⚙️ **DevOps Enthusiast:**
-I thrive in the dynamic world of DevOps, where automation and collaboration converge to streamline development processes. From version control with Git to continuous integration and deployment, I actively seek opportunities to enhance efficiency and foster a culture of innovation.
-
-🌱 **Continuous Learner:**
-I believe in the power of continuous learning. Whether attending conferences, participating in webinars, or staying engaged with the vibrant tech community, I am committed to staying ahead in this ever-evolving tech landscape.
-
-🔗 **Let's Connect:**
-I'm eager to connect with like-minded professionals, collaborate on exciting projects, and share insights on the latest industry trends. Feel free to reach out for networking, discussions, or potential collaborations.
-
-📧 **Contact:**
-Github :- https://github.com/Ingole712521
-Email id :- nehalingole2001@gmail.com
-Mob. no :- 7397966719
-
-Looking forward to connecting and exploring possibilities together! 🌟
-
 ## 🌐 GitHub Stats
 
 <div align="center">
