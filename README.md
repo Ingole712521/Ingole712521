@@ -6,9 +6,9 @@
   , I'm Nehal Ingole
 </h1>
 
-<h3 align="center" >An enduring pursuit of innovation, spanning AI, practical solutions, and hardware expertise.</h3>
+<h3 align="center" >Aspiring IT Passionate about DevOps, Cloud Computing, React JS, Terraform, UI/UX design.</h3>
 
-<!-- <img src="https://visitcount.itsvg.in/api?id=Code-Parth&label=Profile%20Views&color=0&icon=5&pretty=false" /> -->
+<!-- <img src="https://visitcount.itsvg.in/api?id=Ingole712521&label=Profile%20Views&color=0&icon=5&pretty=false" /> -->
 
 <h2 align="left">Let's Connect :</h2>
 <p align="left">
