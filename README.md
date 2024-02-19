@@ -38,10 +38,7 @@
 <div>
   <h3 align="left">Design :</h3>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AfterEffects/aftereffects2.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Premiere/premiere2.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator2.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop2.svg"> 
+
 </div>
 
 <div>
@@ -60,24 +57,23 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg"> 
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg"> 
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp2.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg"> 
+ 
+  
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg"> 
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg"> 
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Swift/swift2.svg"> 
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg"> 
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json3.svg"> 
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart2.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/GraphQL/graphql2.svg"> 
+  
 </div>
 
 <div>
   <h3 align="left">Library and Framework :</h3>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm2.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask2.svg"> 
+   
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NuGet/nuget2.svg"> 
+  
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Yarn/yarn2.svg"> 
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NGINX/nginx3.svg"> 
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg"> 
@@ -96,10 +92,10 @@ _____
 
 <div>
   
-  ![Contribution](https://github-readme-activity-graph.vercel.app/graph?username=Code-Parth&bg_color=172f45&color=bddfff&line=38536a&point=38a0ff&area=true&hide_border=true)
+  ![Contribution](https://github-readme-activity-graph.vercel.app/graph?username=Ingole712521&bg_color=172f45&color=bddfff&line=38536a&point=38a0ff&area=true&hide_border=true)
 
   <div align="center">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=code-parth&show_icons=true&theme=prussian&hide_border=true&locale=en"/>
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=code-parth&theme=prussian&hide_border=true"/>
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ingole712521&show_icons=true&theme=prussian&hide_border=true&locale=en"/>
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ingole712521&theme=prussian&hide_border=true"/>
   </div>
 </div>
