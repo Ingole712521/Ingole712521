@@ -1,46 +1,105 @@
-👋 Hello, I'm Nehal Ingole -  Passionate Cloud Engineer and Fronted designer
+<h1 align="center">Hi 
+  <picture>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="28" height="28">
+  </picture>
+  , I'm Nehal Ingole
+</h1>
 
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+<h3 align="center" >An enduring pursuit of innovation, spanning AI, practical solutions, and hardware expertise.</h3>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/nehal-ingole" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+<!-- <img src="https://visitcount.itsvg.in/api?id=Code-Parth&label=Profile%20Views&color=0&icon=5&pretty=false" /> -->
 
-  </a>
-  <a href="https://hashnode.com/@Nehal71" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-Visit-orange?style=for-the-badge&logo=blogger" alt="Blog" />
-  </a>
+<h2 align="left">Let's Connect :</h2>
+<p align="left">
+<a href="https://twitter.com/IngoleNehal" target="_blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Nehal Ingole | Twitter"></img></a> 
+<a href="https://www.linkedin.com/in/nehal-ingole/" target="_blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Nehal Ingole | Linked in" /></a>
+<a href="https://github.com/Ingole712521" target="_blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Nehal Ingole | GitHub" /></a> 
+<a href="https://port-folio-sigma-rose.vercel.app/" target="_blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg" alt="Nehal Ingole | Portfolio" /></a> 
+
+<h2 align="left">I familiar with :</h2>
+
+<div>
+  <h3 align="left">Cloud :</h3>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare2.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Netlify/netlify2.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel3.svg"> 
 </div>
 
-## 🌐 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ingole712521&theme=dark" alt="GitHub Streak" />
+<div>
+  <h3 align="left">Database :</h3>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase2.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Oracle/oracle2.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase2.svg"> 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ingole712521&show_icons=true&hide=contribs,prs&theme=dark" alt="GitHub Stats" />
+<div>
+  <h3 align="left">Design :</h3>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AfterEffects/aftereffects2.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Premiere/premiere2.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator2.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop2.svg"> 
 </div>
 
-## 🛠️ Skills
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible Badge" />
-  <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins Badge" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP Badge" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Badge" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Badge" />
+<div>
+  <h3 align="left">IDE :</h3>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm2.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio2.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Xcode/xcode2.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg"> 
 </div>
-## Let's Connect 🌐
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nehal-ingole/)
-- [![Gmail](https://img.shields.io/badge/Gmail-Send%20Email-D14836?style=for-the-badge&logo=gmail)](mailto:nehalingole2001@gmail.com)
+<div>
+  <h3 align="left">Languages :</h3>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp2.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Swift/swift2.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json3.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart2.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/GraphQL/graphql2.svg"> 
+</div>
 
+<div>
+  <h3 align="left">Library and Framework :</h3>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm2.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask2.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NuGet/nuget2.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Yarn/yarn2.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NGINX/nginx3.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell3.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet2.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma2.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux2.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter2.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg"> 
+</div>
 
+_____
 
-Feel free to reach out for collaboration or just to say hi! 👋
+<div>
+  
+  ![Contribution](https://github-readme-activity-graph.vercel.app/graph?username=Code-Parth&bg_color=172f45&color=bddfff&line=38536a&point=38a0ff&area=true&hide_border=true)
+
+  <div align="center">
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=code-parth&show_icons=true&theme=prussian&hide_border=true&locale=en"/>
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=code-parth&theme=prussian&hide_border=true"/>
+  </div>
+</div>
