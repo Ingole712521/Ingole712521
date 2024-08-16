@@ -15,7 +15,7 @@
 <a href="https://twitter.com/IngoleNehal" target="_blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Nehal Ingole | Twitter"></img></a> 
 <a href="https://www.linkedin.com/in/nehal-ingole/" target="_blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Nehal Ingole | Linked in" /></a>
 <a href="https://github.com/Ingole712521" target="_blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Nehal Ingole | GitHub" /></a> 
-<a href="https://port-folio-sigma-rose.vercel.app/" target="_blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg" alt="Nehal Ingole | Portfolio" /></a> 
+<a href="https://nehal-ingole.vercel.app/" target="_blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg" alt="Nehal Ingole | Portfolio" /></a> 
 
 <h2 align="left">I familiar with :</h2>
 
