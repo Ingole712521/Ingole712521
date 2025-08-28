@@ -31,11 +31,11 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with DevOps: A Beginner's Guide](https://learnwithnehal.hashnode.dev/getting-started-with-devops)
-- [Understanding Cloud Computing: From Basics to Advanced Concepts](https://learnwithnehal.hashnode.dev/understanding-cloud-computing)
-- [React JS Fundamentals: Building Your First Application](https://learnwithnehal.hashnode.dev/react-js-fundamentals)
-- [Terraform for Infrastructure as Code: A Practical Approach](https://learnwithnehal.hashnode.dev/terraform-for-infrastructure-as-code)
-- [UI/UX Design Principles for Developers](https://learnwithnehal.hashnode.dev/ui-ux-design-principles)
+- [CAPTCHA: The Essential Guide to Blocking Bots Without Annoying Real Users](https://learnwithnehal.hashnode.dev/captcha-the-essential-guide-to-blocking-bots-without-annoying-real-users)
+- [Building an Interactive Hand-Tracking Game with React, MediaPipe, and GSAP](https://learnwithnehal.hashnode.dev/building-an-interactive-hand-tracking-game-with-react-mediapipe-and-gsap)
+- [HLS Adaptive Bitrate Streaming](https://learnwithnehal.hashnode.dev/hls-adaptive-bitrate-streaming)
+- [Terraform and Vault](https://learnwithnehal.hashnode.dev/terraform-and-vault)
+- [Building a Multi-Node Docker Swarm Cluster on AWS with Terraform](https://learnwithnehal.hashnode.dev/building-a-multi-node-docker-swarm-cluster-on-aws-with-terraform)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
