@@ -1,100 +1,108 @@
 <h1 align="center">Hello
   <picture>
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp">
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="28" height="28">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32">
   </picture>
   , I'm Nehal Ingole
 </h1>
 
-<h3 align="center" >Aspiring IT Passionate about DevOps, Cloud Computing, React JS, Terraform, UI/UX design.</h3>
+<h3 align="center">Aspiring IT Professional | DevOps & Cloud Enthusiast | Content Creator</h3>
 
+<p align="center">
+  <a href="https://learnwithnehal.hashnode.dev/">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Blog">
+  </a>
+  <a href="https://twitter.com/IngoleNehal" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://www.linkedin.com/in/nehal-ingole/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Ingole712521" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://nehal-ingole.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF7135?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 
-<h2 align="left">Let's Connect :</h2>
-<p align="left">
-<a href="https://twitter.com/IngoleNehal" target="_blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Nehal Ingole | Twitter"></img></a> 
-<a href="https://www.linkedin.com/in/nehal-ingole/" target="_blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Nehal Ingole | Linked in" /></a>
-<a href="https://github.com/Ingole712521" target="_blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Nehal Ingole | GitHub" /></a> 
-<a href="https://nehal-ingole.vercel.app/" target="_blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg" alt="Nehal Ingole | Portfolio" /></a> 
+---
 
-<h2 align="left">I familiar with :</h2>
+## 📝 Latest Blog Posts
 
-<div>
-  <h3 align="left">Cloud :</h3>
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare2.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Netlify/netlify2.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel3.svg"> 
-</div>
+<!-- BLOG-POST-LIST:START -->
+- [Getting Started with DevOps: A Beginner's Guide](https://learnwithnehal.hashnode.dev/getting-started-with-devops)
+- [Understanding Cloud Computing: From Basics to Advanced Concepts](https://learnwithnehal.hashnode.dev/understanding-cloud-computing)
+- [React JS Fundamentals: Building Your First Application](https://learnwithnehal.hashnode.dev/react-js-fundamentals)
+- [Terraform for Infrastructure as Code: A Practical Approach](https://learnwithnehal.hashnode.dev/terraform-for-infrastructure-as-code)
+- [UI/UX Design Principles for Developers](https://learnwithnehal.hashnode.dev/ui-ux-design-principles)
+<!-- BLOG-POST-LIST:END -->
 
-<div>
-  <h3 align="left">Database :</h3>
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase2.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Oracle/oracle2.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase2.svg"> 
-</div>
+<p align="center">
+  <a href="https://learnwithnehal.hashnode.dev/">
+    <strong>Read more on my blog →</strong>
+  </a>
+</p>
 
-<div>
-  <h3 align="left">Design :</h3>
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg"> 
+---
 
-</div>
+## 🛠️ Technologies & Tools
 
-<div>
-  <h3 align="left">IDE :</h3>
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm2.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio2.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Xcode/xcode2.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg"> 
-</div>
+### ☁️ Cloud Platforms
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-<div>
-  <h3 align="left">Languages :</h3>
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg"> 
- 
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 🎨 Design & IDEs
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚡ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
   
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Swift/swift2.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json3.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart2.svg"> 
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ingole712521&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
   
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ingole712521&layout=compact&theme=radical&hide_border=true)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ingole712521&theme=radical&hide_border=true)
+  
+  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ingole712521&theme=react-dark&hide_border=true&area=true)
+
 </div>
 
-<div>
-  <h3 align="left">Library and Framework :</h3>
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm2.svg"> 
-   
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg"> 
-  
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Yarn/yarn2.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NGINX/nginx3.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell3.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet2.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma2.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux2.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter2.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg"> 
-</div>
+---
 
-_____
-
-<div>
-  
-  ![Contribution](https://github-readme-activity-graph.vercel.app/graph?username=Ingole712521&bg_color=172f45&color=bddfff&line=38536a&point=38a0ff&area=true&hide_border=true)
-
-  <div align="center">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ingole712521&show_icons=true&theme=prussian&hide_border=true&locale=en"/>
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ingole712521&theme=prussian&hide_border=true"/>
-  </div>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ingole712521&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+  <a href="https://github.com/Ingole712521?tab=followers">
+    <img src="https://img.shields.io/github/followers/Ingole712521?label=Followers&style=social" alt="GitHub Followers">
+  </a>
+</p>
