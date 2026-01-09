@@ -1,159 +1,159 @@
-# Hello <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32"> I'm Nehal Ingole
-
-### 👨‍💻 Aspiring IT Professional | 🚀 DevOps & Cloud Enthusiast | ✍️ Technical Content Creator
-
----
-
-## 📌 Quick Links
-
-<div align="center">
-  <a href="https://nehal-ingole.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-FF7135?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://learnwithnehal.hashnode.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/📝_Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog">
-  </a>
-  <a href="https://www.linkedin.com/in/nehal-ingole/" target="_blank">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/Ingole712521" target="_blank">
-    <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://twitter.com/IngoleNehal" target="_blank">
-    <img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-</div>
-
----
-
-## 💼 Professional Experience
-
 <div align="center">
 
-### **Frontend Developer** @ **Kshan Soft Tech Solution** 
-#### 🗓️ January 2025 - Present
-<div align="left">
+# 👋 Hi, I'm **Nehal Ingole**
 
-- 🚀 **Developed and maintained** two full-stack web applications using **React.js** with **TypeScript** frontend and **Node.js** backend
-- 🎨 **Designed and implemented** user-friendly interfaces for multi-user management systems
-- 🔄 **Collaborated** with backend developers to ensure seamless data flow and API integration
-- ⚡ **Improved UI responsiveness** by 40% and enhanced overall user experience
-- 🛠️ **Technologies used:** React, TypeScript, Node.js, REST APIs, Git
+### 🚀 DevOps & Cloud Enthusiast | 💻 Frontend Developer | ✍️ Tech Blogger
 
-</div>
-
-### **Freelance Developer & Security Analyst**
-#### 🗓️ September 2023 - Present
-<div align="left">
-
-- 🔒 **Completed** a comprehensive cybersecurity project focusing on **DDoS attack mitigation**
-- 🌐 **Developed** a complete website for **ALIF** with modern design and functionality
-- 💡 **Implemented** security best practices and performance optimization techniques
-- 📱 **Created** responsive web applications with focus on user experience and accessibility
-- 🛡️ **Specialized in:** Web Security, Frontend Development, Cybersecurity Solutions
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Cloud-Native+Applications;Learning+DevOps+Every+Day;Automating+Infrastructure+with+Terraform;Writing+to+Teach+and+Learn" />
 
 </div>
 
 ---
 
-## 📚 Featured Blog Posts
+## 🌟 About Me
 
-<div align="center">
-
-| 🚀 DevOps & Cloud | 🎮 Interactive Projects | 📺 Streaming Tech |
-| :--- | :--- | :--- |
-| **[Terraform & Vault Guide](https://learnwithnehal.hashnode.dev/terraform-and-vault)**<br>Secure infrastructure as code | **[Hand-Tracking Game](https://learnwithnehal.hashnode.dev/building-an-interactive-hand-tracking-game-with-react-mediapipe-and-gsap)**<br>React + MediaPipe + GSAP | **[HLS Streaming](https://learnwithnehal.hashnode.dev/hls-adaptive-bitrate-streaming)**<br>Adaptive bitrate streaming |
-| **[Docker Swarm on AWS](https://learnwithnehal.hashnode.dev/building-a-multi-node-docker-swarm-cluster-on-aws-with-terraform)**<br>Terraform automation | **[CAPTCHA Guide](https://learnwithnehal.hashnode.dev/captcha-the-essential-guide-to-blocking-bots-without-annoying-real-users)**<br>Security without friction | |
-
-</div>
-
-<p align="center">
-  <a href="https://learnwithnehal.hashnode.dev/">
-    <strong>📖 Explore All Articles →</strong>
-  </a>
-</p>
+* 👨‍💻 Aspiring **IT Professional** with hands-on industry experience
+* ☁️ Passionate about **Cloud, DevOps, and Automation**
+* 🛡️ Strong interest in **Web Security & Performance**
+* ✍️ Writing technical blogs to **simplify complex topics**
+* 🤝 Open to **internships, freelance work & collaborations**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 What I Work With Daily
 
-### ☁️ **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Image](https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2022/02/22/Fig1-xAcct-pipeline-1024x559.png)
 
-### 💻 **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Image](https://embed-ssl.wistia.com/deliveries/41c56d0e44141eb3654ae77f4ca5fb41.webp?image_crop_resized=960x540)
 
-### 🗄️ **Backend & Databases**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
+![Image](https://docs.docker.com/get-started/images/docker-architecture.webp)
 
-### 🛠️ **Tools & Platforms**
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![Image](https://media.geeksforgeeks.org/wp-content/uploads/20250828001732378846/dockervsvm.png)
+
+```yaml
+Cloud:        AWS | Cloudflare | Vercel | Netlify
+DevOps:       Docker | Terraform | CI/CD | Linux
+Frontend:     React | Next.js | TypeScript | Tailwind CSS
+Backend:      Node.js | Python | REST APIs
+Databases:    MongoDB | PostgreSQL | Firebase | Supabase
+Security:     Web Security | DDoS Mitigation | CAPTCHA
+```
 
 ---
 
-## 📊 GitHub Analytics
+## 💼 Experience Snapshot
+
+### 🚀 Frontend Developer — *Kshan Soft Tech Solution*
+
+📅 **Jan 2025 – Present**
+
+* Built **scalable full-stack apps** using React + TypeScript
+* Improved UI performance by **40%**
+* Designed clean, responsive dashboards
+* Collaborated closely with backend & API teams
+
+---
+
+### 🔐 Freelance Developer & Security Analyst
+
+📅 **Sep 2023 – Present**
+
+* Implemented **DDoS mitigation** strategies
+* Developed production-ready websites
+* Focused on **security, performance & UX**
+* Delivered responsive, accessible applications
+
+---
+
+## ✍️ Featured Technical Blogs
+
+![Image](https://www.hashicorp.com/_next/image?q=75\&url=https%3A%2F%2Fwww.datocms-assets.com%2F2885%2F1721419685-oidc-vault-backed-dynamic-creds-hcp-tf.png\&w=3840)
+
+![Image](https://docs.docker.com/engine/swarm/images/swarm-diagram.webp)
+
+![Image](https://enterprisetube.com/hs-fs/hubfs/HOW-ADAPTIVE-BITRATE-STREAMING-WORKS-1-1024x571-webp.webp?height=571\&name=HOW-ADAPTIVE-BITRATE-STREAMING-WORKS-1-1024x571-webp.webp\&width=1024)
+
+![Image](https://gumletblog.gumlet.io/learn/2024/04/Adaptive-Bitrate-Streaming.png)
+
+| 🚀 DevOps & Cloud | 🎮 Interactive Apps | 🔐 Security    |
+| ----------------- | ------------------- | -------------- |
+| Terraform + Vault | Hand-Tracking Game  | CAPTCHA Guide  |
+| Docker Swarm AWS  | MediaPipe + GSAP    | Bot Prevention |
+
+👉 **Read more:** [learnwithnehal.hashnode.dev](https://learnwithnehal.hashnode.dev/)
+
+---
+
+## 🛠️ Tech Stack Badges (Clean & Compact)
 
 <div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ingole712521&theme=react&hide_border=true&background=0D1117)
+**☁️ Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge\&logo=terraform)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ingole712521&theme=react&layout=compact&hide_border=true&bg_color=0D1117)
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ingole712521&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+**💻 Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript)
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 📊 GitHub Stats That Pop
 
 <div align="center">
-  
-  I'm always open to discussing **DevOps**, **Cloud Technologies**, **Frontend Development**, or potential collaboration opportunities!
 
-  <p>
-    <a href="mailto:your-email@example.com">
-      <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    <a href="https://www.linkedin.com/in/nehal-ingole/">
-      <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://twitter.com/IngoleNehal">
-      <img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-    </a>
-  </p>
+<img src="https://github-readme-stats.vercel.app/api?username=Ingole712521&show_icons=true&theme=react&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ingole712521&theme=react&hide_border=true" width="48%" />
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=Ingole712521&color=blue&label=👀+Profile+Views)
-  ![Followers](https://img.shields.io/github/followers/Ingole712521?color=green&label=⭐+Followers&style=flat)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ingole712521&theme=react-dark&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🤝 Let’s Connect & Build Something Cool
+
+<div align="center">
+
+<a href="https://nehal-ingole.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-FF7135?style=for-the-badge">
+</a>
+<a href="https://www.linkedin.com/in/nehal-ingole/">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+<a href="https://learnwithnehal.hashnode.dev/">
+  <img src="https://img.shields.io/badge/✍️_Blog-2962FF?style=for-the-badge&logo=hashnode">
+</a>
+<a href="https://twitter.com/IngoleNehal">
+  <img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter">
+</a>
 
 </div>
 
 ---
 
 <div align="center">
-  
-  **Thanks for visiting!** Have a great day! 😄
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Always+learning+new+things;DevOps+%7C+Cloud+%7C+Automation;Sharing+knowledge+through+blogs;Open+to+collaborations" alt="Typing SVG" />
+
+### 🚀 *“Always learning. Always building. Always sharing.”*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ingole712521\&color=38BDF8\&label=Profile+Views)
 
 </div>
+
+---
+
+## 💡 Want Next-Level Polish?
+
+I can also help you with:
+
+* 🔥 **Animated DevOps roadmap section**
+* 📈 **Career-focused recruiter version**
+* 🎨 **Dark-mode optimized layout**
+* 🤖 **GitHub Actions badges**
+* 📦 **Pinned project descriptions**
+
+Just tell me 😄
