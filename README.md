@@ -24,8 +24,6 @@
 
 ![Image](https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2022/02/22/Fig1-xAcct-pipeline-1024x559.png)
 
-![Image](https://embed-ssl.wistia.com/deliveries/41c56d0e44141eb3654ae77f4ca5fb41.webp?image_crop_resized=960x540)
-
 ![Image](https://docs.docker.com/get-started/images/docker-architecture.webp)
 
 ![Image](https://media.geeksforgeeks.org/wp-content/uploads/20250828001732378846/dockervsvm.png)
@@ -68,8 +66,6 @@ Security:     Web Security | DDoS Mitigation | CAPTCHA
 ## ✍️ Featured Technical Blogs
 
 ![Image](https://www.hashicorp.com/_next/image?q=75\&url=https%3A%2F%2Fwww.datocms-assets.com%2F2885%2F1721419685-oidc-vault-backed-dynamic-creds-hcp-tf.png\&w=3840)
-
-![Image](https://docs.docker.com/engine/swarm/images/swarm-diagram.webp)
 
 ![Image](https://enterprisetube.com/hs-fs/hubfs/HOW-ADAPTIVE-BITRATE-STREAMING-WORKS-1-1024x571-webp.webp?height=571\&name=HOW-ADAPTIVE-BITRATE-STREAMING-WORKS-1-1024x571-webp.webp\&width=1024)
 
@@ -143,17 +139,3 @@ Security:     Web Security | DDoS Mitigation | CAPTCHA
 ![Profile Views](https://komarev.com/ghpvc/?username=Ingole712521\&color=38BDF8\&label=Profile+Views)
 
 </div>
-
----
-
-## 💡 Want Next-Level Polish?
-
-I can also help you with:
-
-* 🔥 **Animated DevOps roadmap section**
-* 📈 **Career-focused recruiter version**
-* 🎨 **Dark-mode optimized layout**
-* 🤖 **GitHub Actions badges**
-* 📦 **Pinned project descriptions**
-
-Just tell me 😄
