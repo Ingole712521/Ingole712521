@@ -26,6 +26,38 @@
 
 ---
 
+## 💼 Professional Experience
+
+<div align="center">
+
+### **Frontend Developer** @ **Kshan Soft Tech Solution** 
+#### 🗓️ January 2025 - Present
+<div align="left">
+
+- 🚀 **Developed and maintained** two full-stack web applications using **React.js** with **TypeScript** frontend and **Node.js** backend
+- 🎨 **Designed and implemented** user-friendly interfaces for multi-user management systems
+- 🔄 **Collaborated** with backend developers to ensure seamless data flow and API integration
+- ⚡ **Improved UI responsiveness** by 40% and enhanced overall user experience
+- 🛠️ **Technologies used:** React, TypeScript, Node.js, REST APIs, Git
+
+</div>
+
+### **Freelance Developer & Security Analyst**
+#### 🗓️ September 2023 - Present
+<div align="left">
+
+- 🔒 **Completed** a comprehensive cybersecurity project focusing on **DDoS attack mitigation**
+- 🌐 **Developed** a complete website for **ALIF** with modern design and functionality
+- 💡 **Implemented** security best practices and performance optimization techniques
+- 📱 **Created** responsive web applications with focus on user experience and accessibility
+- 🛡️ **Specialized in:** Web Security, Frontend Development, Cybersecurity Solutions
+
+</div>
+
+</div>
+
+---
+
 ## 📚 Featured Blog Posts
 
 <div align="center">
@@ -97,7 +129,7 @@
 
 <div align="center">
   
-  I'm always open to discussing **DevOps**, **Cloud Technologies**, **Open Source**, or potential collaboration opportunities!
+  I'm always open to discussing **DevOps**, **Cloud Technologies**, **Frontend Development**, or potential collaboration opportunities!
 
   <p>
     <a href="mailto:your-email@example.com">
