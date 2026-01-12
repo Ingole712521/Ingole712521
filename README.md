@@ -182,42 +182,6 @@ timeline
 ⭐ **Star my repositories if you find something interesting!** ⭐
 
 </div>
-
----
-
-<details>
-<summary><b>🎨 Customization Tips (For You)</b></summary>
-
-## **To Make This Even Better:**
-
-1. **Add real GitHub Actions workflow badges**
-   ```markdown
-   ![Build Status](https://img.shields.io/github/actions/workflow/status/Ingole712521/repo-name/build.yml)
-   ```
-
-2. **Include actual project links**
-   ```markdown
-   [![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=Ingole712521&repo=repo-name)](https://github.com/Ingole712521/repo-name)
-   ```
-
-3. **Add WakaTime stats** (if you track coding time)
-   ```markdown
-   ![WakaTime](https://wakatime.com/badge/user/your-user-id.svg)
-   ```
-
-4. **Include certifications badges**
-   ```markdown
-   ![AWS Certified](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900)
-   ```
-
-5. **Add a daily.dev blog card**
-   ```markdown
-   [![Read on Daily.dev](https://api.daily.dev/devcards/your-card-id.png)](https://daily.dev)
-   ```
-
-</details>
-
----
 <div align="center">
 
 **🚀 Thanks for visiting! Let's build something amazing together!**
