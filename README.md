@@ -1,5 +1,3 @@
-# 🎨 **Enhanced GitHub Profile - Nehal Ingole**
-
 <div align="center">
 
 ## 👋 **Hello World! I'm Nehal Ingole**
