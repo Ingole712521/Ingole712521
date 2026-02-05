@@ -9,7 +9,7 @@
 
 <!-- Animated 3D Terminal -->
 ```bash
-┌──(nehal㉿cloud)-[~/projects]
+┌──(nehal㉿cloud)-
 └─$ whoami
 DevOps Engineer | Cloud Specialist | Tech Blogger
 ```
