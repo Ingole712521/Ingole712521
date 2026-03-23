@@ -182,8 +182,6 @@ timeline
 </div>
 <div align="center">
 
-**🚀 Thanks for visiting! Let's build something amazing together!**
-
 [![Star History Chart](https://api.star-history.com/svg?repos=Ingole712521&type=Date)](https://star-history.com/#Ingole712521&Date)
 
 </div>
