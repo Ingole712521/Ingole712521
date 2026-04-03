@@ -37,20 +37,6 @@ DevOps Engineer | Cloud Specialist | Tech Blogger
 
 </div>
 
-<!-- Interactive Skills Chart -->
-<details>
-<summary><b>📊 Skills Proficiency (Click to Expand)</b></summary>
-
-```mermaid
-xychart-beta
-    title "Technical Skills Matrix"
-    x-axis ["AWS", "Docker", "Kubernetes", "Terraform", "React", "TypeScript", "Python"]
-    y-axis "Proficiency Level" 0 --> 100
-    bar [85, 90, 75, 80, 88, 85, 78]
-```
-
-</details>
-
 ---
 
 ## 🚀 **Experience Timeline**
