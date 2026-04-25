@@ -66,4 +66,4 @@ timeline
     2025 - Present : Frontend Developer
                   : Kshan Soft Tech Solution
     Next Goal      : Cloud DevOps Engineer
-                  : Open to New Opportunities
+                  : Open to New Opportunities or I will Quit
