@@ -11,7 +11,6 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Ingole712521&label=Profile%20Views&color=7B42BC&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/Ingole712521?label=Followers&style=for-the-badge&color=7B42BC" />
   <img src="https://img.shields.io/github/stars/Ingole712521?label=Total%20Stars&style=for-the-badge&color=7B42BC" />
 </p>
