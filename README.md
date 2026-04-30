@@ -55,7 +55,7 @@
 
 ---
 
-## 💼 Experience Timeline
+## Experience Timeline
 
 ```mermaid
 timeline
