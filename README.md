@@ -53,6 +53,13 @@
 
 </div>
 
+## Code Merge
+
+| Project | Contribution |
+|----------|-------------|
+| SafeHaven | Merged Pull Request [#244](https://github.com/archangel2006/SafeHaven/pull/244) |
+| SafeHaven | Resolved/Contributed to Issue [#235](https://github.com/archangel2006/SafeHaven/issues/235#event-26908590358) |8590358
+
 ---
 
 ## Experience Timeline
