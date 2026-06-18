@@ -53,12 +53,16 @@
 
 </div>
 
-## Code Merge
+## Social Summer of Code 
 
-| Project | Contribution |
-|----------|-------------|
-| SafeHaven | Merged Pull Request [#244](https://github.com/archangel2006/SafeHaven/pull/244) |
-| SafeHaven | Resolved/Contributed to Issue [#235](https://github.com/archangel2006/SafeHaven/issues/235#event-26908590358) |8590358
+| Project    | Contribution                                                                                                  |
+| ---------- | ------------------------------------------------------------------------------------------------------------- |
+| SafeHaven  | Merged Pull Request [#244](https://github.com/archangel2006/SafeHaven/pull/244)                               |
+| SafeHaven  | Resolved/Contributed to Issue [#235](https://github.com/archangel2006/SafeHaven/issues/235#event-26908590358) |
+| AI_ROCKERS | Resolved/Contributed to Issue [#77](https://github.com/jai3546/AI_ROCKERS/issues/77#issue-4691897510)         |
+
+---
+
 
 ---
 
