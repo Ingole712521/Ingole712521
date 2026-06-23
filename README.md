@@ -1,5 +1,4 @@
 <div align="center">
-
 # Hi, I'm **Nehal Ingole**
 
 ### 🚀 DevOps Engineer • Cloud Architect • Full Stack Developer
