@@ -55,7 +55,9 @@
 ## 🚀 Open Source Contributions
 
 <!-- OSS-CONTRIBUTIONS-START -->
-Updating automatically...
+
+_Auto-updated every 2 hours when you open or merge PRs in other repositories._
+
 <!-- OSS-CONTRIBUTIONS-END -->
 
 ---

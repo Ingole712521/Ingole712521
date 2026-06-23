@@ -1,0 +1,31 @@
+# Optional: copy this file into any open-source repo where you contribute.
+# Rename to trigger-profile-readme-update.yml (remove .example).
+#
+# When your PR is merged there, it notifies your profile repo to refresh README.
+#
+# Required secret in THAT repo: PROFILE_UPDATE_TOKEN
+#   - Create a fine-grained PAT with "Contents: Read" on your profile repo
+#   - Or use a classic PAT with repo scope
+
+name: Notify profile README update
+
+on:
+  pull_request:
+    types: [closed]
+
+jobs:
+  notify:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger profile repo update
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.PROFILE_UPDATE_TOKEN }}
+          repository: Ingole712521/Ingole712521
+          event-type: oss-contribution-updated
+          client-payload: |
+            {
+              "repo": "${{ github.repository }}",
+              "pr": ${{ github.event.pull_request.number }}
+            }

@@ -1,16 +1,36 @@
 name: Update OSS Contributions
 
 on:
+  # Manual run from the Actions tab
   workflow_dispatch:
+
+  # Re-check every 2 hours for newly merged or opened PRs in other repos
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */2 * * *"
+
+  # Instant update when a PR is merged into this profile repo
+  pull_request:
+    types: [closed]
+
+  # Allow other repos to trigger an update after your PR merges there
+  repository_dispatch:
+    types: [oss-contribution-updated]
 
 permissions:
   contents: write
 
+concurrency:
+  group: update-oss-contributions
+  cancel-in-progress: true
+
 jobs:
   update:
     runs-on: ubuntu-latest
+
+    # Run on manual/schedule/dispatch always; on pull_request only when merged
+    if: >
+      github.event_name != 'pull_request' ||
+      github.event.pull_request.merged == true
 
     steps:
       - uses: actions/checkout@v4
@@ -19,20 +39,26 @@ jobs:
         with:
           python-version: "3.12"
 
-      - run: pip install requests
+      - name: Install dependencies
+        run: pip install requests
 
-      - name: Generate Contributions
+      - name: Generate contributions table
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PAT || github.token }}
           USERNAME: Ingole712521
         run: python scripts/update_contributions.py
 
-      - name: Commit README
+      - name: Commit and push README
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add README.md
 
-          git diff --cached --quiet || git commit -m "chore: update OSS contributions"
+          if git diff --cached --quiet; then
+            echo "No README changes to commit"
+            exit 0
+          fi
+
+          git commit -m "chore: update OSS contributions in README"
           git push
