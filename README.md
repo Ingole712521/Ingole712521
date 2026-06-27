@@ -69,10 +69,10 @@
 | `kestra-io/kestra` | [PR #15043](https://github.com/kestra-io/kestra/pull/15043) | ✅ Merged |
 | `firstcontributions/first-contributions` | [PR #79024](https://github.com/firstcontributions/first-contributions/pull/79024) | ✅ Merged |
 | `firstcontributions/first-contributions` | [PR #79066](https://github.com/firstcontributions/first-contributions/pull/79066) | ✅ Merged |
+| `jai3546/AI_ROCKERS` | [PR #80](https://github.com/jai3546/AI_ROCKERS/pull/80) | 🟡 Open |
 | `sudip-mondal-2002/Opticlick` | [PR #69](https://github.com/sudip-mondal-2002/Opticlick/pull/69) | 🟡 Open |
 | `TENET-DEV-AI/TENET-AI` | [PR #193](https://github.com/TENET-DEV-AI/TENET-AI/pull/193) | 🟡 Open |
 | `roshankumar0036singh/auth-server` | [PR #131](https://github.com/roshankumar0036singh/auth-server/pull/131) | 🟡 Open |
-| `jai3546/AI_ROCKERS` | [PR #80](https://github.com/jai3546/AI_ROCKERS/pull/80) | 🟡 Open |
 | `umami-software/umami` | [PR #4103](https://github.com/umami-software/umami/pull/4103) | 🟡 Open |
 
 <!-- OSS-CONTRIBUTIONS-END -->
