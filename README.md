@@ -77,10 +77,6 @@
 
 <!-- OSS-CONTRIBUTIONS-END -->
 
----
-
-
----
 
 ## Experience Timeline
 
