@@ -60,10 +60,10 @@
 |---------|--------------|--------|
 | `nandinigoyaldev/Open-Source-Contribution-Atelier` | [PR #655](https://github.com/nandinigoyaldev/Open-Source-Contribution-Atelier/pull/655) | ✅ Merged |
 | `TENET-DEV-AI/TENET-AI` | [PR #193](https://github.com/TENET-DEV-AI/TENET-AI/pull/193) | ✅ Merged |
-| `Memact/Memory` | [PR #10](https://github.com/Memact/Memory/pull/10) | ✅ Merged |
-| `Memact/Memory` | [PR #11](https://github.com/Memact/Memory/pull/11) | ✅ Merged |
+| `memact-archive/Memory` | [PR #10](https://github.com/memact-archive/Memory/pull/10) | ✅ Merged |
+| `memact-archive/Memory` | [PR #11](https://github.com/memact-archive/Memory/pull/11) | ✅ Merged |
 | `Anushka-045/deshsafe` | [PR #58](https://github.com/Anushka-045/deshsafe/pull/58) | ✅ Merged |
-| `Memact/Context` | [PR #73](https://github.com/Memact/Context/pull/73) | ✅ Merged |
+| `memact-archive/Context` | [PR #73](https://github.com/memact-archive/Context/pull/73) | ✅ Merged |
 | `geturbackend/urBackend` | [PR #320](https://github.com/geturbackend/urBackend/pull/320) | ✅ Merged |
 | `jai3546/AI_ROCKERS` | [PR #79](https://github.com/jai3546/AI_ROCKERS/pull/79) | ✅ Merged |
 | `archangel2006/SafeHaven` | [PR #244](https://github.com/archangel2006/SafeHaven/pull/244) | ✅ Merged |
