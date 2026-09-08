@@ -65,6 +65,7 @@
 | `Anushka-045/deshsafe` | [PR #58](https://github.com/Anushka-045/deshsafe/pull/58) | ✅ Merged |
 | `memact-archive/Context` | [PR #73](https://github.com/memact-archive/Context/pull/73) | ✅ Merged |
 | `geturbackend/urBackend` | [PR #320](https://github.com/geturbackend/urBackend/pull/320) | ✅ Merged |
+| `jai3546/AI_ROCKERS` | [PR #79](https://github.com/jai3546/AI_ROCKERS/pull/79) | ✅ Merged |
 | `archangel2006/SafeHaven` | [PR #244](https://github.com/archangel2006/SafeHaven/pull/244) | ✅ Merged |
 | `kestra-io/kestra` | [PR #15043](https://github.com/kestra-io/kestra/pull/15043) | ✅ Merged |
 | `firstcontributions/first-contributions` | [PR #79024](https://github.com/firstcontributions/first-contributions/pull/79024) | ✅ Merged |
